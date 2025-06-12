@@ -4,7 +4,7 @@
 - ⚡ Desenvolvedor Full Stack.
 - 🌱 Estudando Frameworks de Desenvolvimento Front e Back End. 
 - 📚 Estudando Técnicas de Design e UX / UI.        
-- ✨ Estafiario em Desenvolvimento Full Stack NautaSoft          
+- ✨ Estagiario em Desenvolvimento Full Stack na NautaSoft.          
     
 ##      
   
